@@ -1,0 +1,75 @@
+ul{
+    text-align: right;
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+}
+h1{
+    font-size: 40px;
+	text-align: center;
+	text-decoration: underline;
+    color: blue;
+} 
+img{
+    display: block;
+    border-radius: 50%;
+    width: 200px;
+    height: 300px;
+    margin-left: 40%;
+	margin-right: auto;
+
+}
+.centermain {
+    padding-left: 25%;
+	padding-right: 23%;
+}
+p{
+    padding-left: 25%;
+    padding-right: 23%;
+}
+h2{
+    font-size: 30px;
+	text-align: center;
+	text-decoration: underline;
+    color: blue; 
+}
+#Honours{
+
+	color: red;
+
+}
+.bright{
+    color:red;
+}
+.bright a:nth-child(odd){
+    color:white;
+    background-color: gray;
+    text-decoration: none;
+}
+.bright a:nth-child(even){
+    color:white;
+    background-color: orangered;
+    text-decoration: none; 
+}
+.interesting ol li{
+    padding-left: 25%;
+    padding-right: 23%;
+    color:blue;
+    font-size: 20px;
+    font-family: 'Great Vibes';
+}
+h3{
+    font-size: 20px;
+	text-align: center;
+	text-decoration: underline;
+    color: blue; 
+
+}
+iframe{
+    padding-left: 25%;
+    padding-right: 23%;
+}
+body{
+    background-color: turquoise;
+}
